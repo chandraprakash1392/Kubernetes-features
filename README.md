@@ -3,7 +3,7 @@ Kubernetes features including external dns and ALB integration
 
 # This repository will help you to integrate Kubernetes with AWS and assign DNS to ALB mappings in Route53
 
-## Please go through the [external-dns] (external-dns.yaml) file to make the necessary changes according to your infra
+## Please go through the [external-dns](https://github.com/chandraprakash1392/Kubernetes-features/external-dns.yaml) file to make the necessary changes according to your infra
 
 ## Integrate External DNS into kubernetes and AWS:
 
