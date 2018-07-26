@@ -12,7 +12,6 @@ metadata:
         }
       ]
     deployment.kubernetes.io/revision: "1"
-  creationTimestamp: ""
   generation: 1
   labels:
     app: alb-ingress-controller
@@ -33,7 +32,6 @@ spec:
     type: RollingUpdate
   template:
     metadata:
-      creationTimestamp: null
       labels:
         app: alb-ingress-controller
     spec:
